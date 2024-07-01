@@ -4,4 +4,4 @@ This is my first git project
 
 <h1>This is a Test</h1>
 
--Author-Adil Tanvir-
+Author - Adil Tanvirv (Mecaps)
